@@ -1,3 +1,7 @@
+## Grant calculator
+
+Accepts grant information and returns calculations based on the information provided.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
